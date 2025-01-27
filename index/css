@@ -1,7 +1,6 @@
 body {
     text-align: center;
     background-color: lightblue;
-    font-style:;
 }
 
 .pon {outline: none}

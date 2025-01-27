@@ -1,16 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>авторизация</title>
-<link rel="stylesheet" type="text/css" href="style.css">
-<script src="script.js"></script>
-</head>
-<body>
     <h2>Авторизация</h2>
     <pre><h3>Логин:               </h3></pre>
-    <input class="pon" placeholder="Введите логин🧂"></input>
+    <input class="pon" placeholder="Введите логин">
     <pre><h3>Пароль:              </h3></pre>
-    <input class="pon" placeholder="Введите пароль🧂"></input>
-</body>
-</html>
+    <input class="pon" placeholder="Введите пароль"><br><br>
+    <button style="width: 175px;">Войти</button>
